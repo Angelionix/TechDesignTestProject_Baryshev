@@ -7,8 +7,13 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/1_menu_scene.unity
-    guid: d60f2a2238ac1384480fb916aaed1bfa
+    guid: 02dc6cd7e273b6d42bc730c5b507c9e1
   - enabled: 1
     path: Assets/Scenes/2_game_scene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+    guid: d60f2a2238ac1384480fb916aaed1bfa
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 6d95812609d87d544af58ccaf53d9e69, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: eba969fb96a930d4baabacd6f30ea8e6, type: 2}

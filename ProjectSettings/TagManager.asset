@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: props_background
+    uniqueID: 2698472375
+    locked: 0
+  - name: props_foreground
+    uniqueID: 2503355935
+    locked: 0
   - name: UI
     uniqueID: 45441401
+    locked: 0
+  - name: hero
+    uniqueID: 1355388389
     locked: 0
