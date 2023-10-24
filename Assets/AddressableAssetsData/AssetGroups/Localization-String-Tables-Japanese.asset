@@ -10,16 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-String-Tables-Japanese (ja)
+  m_Name: Localization-String-Tables-Japanese
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-String-Tables-Japanese (ja)
+  m_GroupName: Localization-String-Tables-Japanese
   m_Data:
     m_SerializedData: []
-  m_GUID: 22d7c76cd00f32549a90d27ca70e3337
-  m_SerializeEntries: []
+  m_GUID: b7f5a9cbdd4336e44b495df830eec690
+  m_SerializeEntries:
+  - m_GUID: e67445c59cbf7a848b08bb3ea2b1d561
+    m_Address: game_text_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    - Preload
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 62738953b08dfba4ea64bf4df4ea51f4, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 27ee0d05c4b8a044984a32f445be8590, type: 2}
-    - {fileID: 11400000, guid: e9ffc0516d473494fb722e0632876bd9, type: 2}
+    - {fileID: 11400000, guid: cc40fed66d868b246b608c457c8da4a1, type: 2}
+    - {fileID: 11400000, guid: 55d6ad74fb77ff044a71b0c43a393807, type: 2}

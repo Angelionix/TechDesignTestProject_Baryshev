@@ -15,12 +15,12 @@ MonoBehaviour:
   m_TableCollectionName: game_text
   m_TableCollectionNameGuidString: 70d4128ee581cd04f8939d49f9814b7e
   m_Entries:
-  - m_Id: 2572302004224
-    m_Key: 2_game_scene/Canvas/Text (TMP)
+  - m_Id: 12608243871744
+    m_Key: 2_game_scene/Canvas/Button/Text (TMP)
     m_Metadata:
       m_Items: []
-  - m_Id: 3883521126400
-    m_Key: 2_game_scene/Canvas/next_scene_button/Text (TMP)
+  - m_Id: 13082649014272
+    m_Key: 1_menu_scene/Canvas/Button/Text (TMP)
     m_Metadata:
       m_Items: []
   m_Metadata:
